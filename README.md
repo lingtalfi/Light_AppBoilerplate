@@ -1,6 +1,6 @@
 Light_AppBoilerplate
 ===========
-2021-02-11
+2021-02-11 -> 2021-02-12
 
 
 
@@ -47,6 +47,10 @@ This planet just contains some light app boilerplate, so that other plugins can 
 
 History Log
 =============
+
+- 1.0.2 -- 2021-02-12
+
+    - update Light_Cli
 
 - 1.0.1 -- 2021-02-12
 
