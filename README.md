@@ -48,6 +48,10 @@ This planet just contains some light app boilerplate, so that other plugins can 
 History Log
 =============
 
-- 1.0.0 -- 2021-02-08
+- 1.0.1 -- 2021-02-12
+
+    - remove .git and .gitignore from the zip archive
+  
+- 1.0.0 -- 2021-02-11
 
     - initial commit
