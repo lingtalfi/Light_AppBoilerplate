@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.7 -- 2021-02-15
+
+    - wizard: update boilerplate for Ling.Bat.
+
 - 1.0.6 -- 2021-02-15
 
     - wizard: update boilerplate for Ling.Light_PlanetInstaller.
