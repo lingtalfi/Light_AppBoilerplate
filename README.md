@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.5 -- 2021-02-15
+
+    - wizard: update boilerplate for Ling.UniverseTools.
+
 - 1.0.4 -- 2021-02-15
 
     - wizard: test commit 2
