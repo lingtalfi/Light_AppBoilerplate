@@ -48,6 +48,46 @@ This planet just contains some light app boilerplate, so that other plugins can 
 History Log
 =============
 
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
+- 1.0.3 -- 2021-02-15
+
+    - wizard commit test
+
 - 1.0.2 -- 2021-02-12
 
     - update Light_Cli
