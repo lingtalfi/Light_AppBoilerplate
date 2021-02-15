@@ -48,9 +48,10 @@ This planet just contains some light app boilerplate, so that other plugins can 
 History Log
 =============
 
-- 1.0.4 -- 2021-02-15
 
-    - wizard: update boilerplate for Ling.UniverseTools.
+- 1.0.3 -- 2021-02-15
+
+    - wizard: test commit
 
 - 1.0.2 -- 2021-02-12
 
