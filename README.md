@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.4 -- 2021-02-15
+
+    - wizard: test commit 2
+
 - 1.0.3 -- 2021-02-15
 
     - wizard: test commit
