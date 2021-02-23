@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.29 -- 2021-02-23
+
+    - wizard: update boilerplate for Ling.Light_PlanetInstaller.
+
 - 1.0.28 -- 2021-02-23
 
     - wizard: update boilerplate for Ling.ArrayToString.
