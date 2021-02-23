@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.26 -- 2021-02-23
+
+    - wizard: update boilerplate for Ling.UniverseTools.
+
 - 1.0.25 -- 2021-02-23
 
     - wizard: update boilerplate for Ling.Light_PlanetInstaller.
