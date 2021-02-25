@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.42 -- 2021-02-25
+
+    - wizard: update boilerplate for Ling.Bat.
+
 - 1.0.41 -- 2021-02-25
 
     - wizard: update boilerplate for Ling.UniverseTools.
