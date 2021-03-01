@@ -49,6 +49,10 @@ History Log
 =============
 
 
+- 1.0.50 -- 2021-03-01
+
+    - wizard: update boilerplate for Ling.Light_PlanetInstaller.
+
 - 1.0.49 -- 2021-02-26
 
     - wizard: update boilerplate for Ling.Light_Cli.
