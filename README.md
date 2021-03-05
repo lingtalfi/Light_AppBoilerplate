@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.52 -- 2021-03-05
+
+    - wizard: update boilerplate for Ling.BabyYaml.
+
 - 1.0.51 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.ArrayToString.
