@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.71 -- 2021-03-05
+
+    - wizard: update boilerplate for Ling.ParenthesisMirrorParser.
+
 - 1.0.70 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.Octopus.
