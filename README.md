@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.77 -- 2021-03-05
+
+    - wizard: update boilerplate for Ling.UniversalLogger.
+
 - 1.0.76 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.TokenFun.
