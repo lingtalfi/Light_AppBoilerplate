@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.74 -- 2021-03-05
+
+    - wizard: update boilerplate for Ling.SimplePdoWrapper.
+
 - 1.0.73 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.SicTools.
