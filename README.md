@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.55 -- 2021-03-05
+
+    - wizard: update boilerplate for Ling.BumbleBee.
+
 - 1.0.54 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.BeeFramework.
