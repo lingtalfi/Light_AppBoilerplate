@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.61 -- 2021-03-05
+
+    - wizard: update boilerplate for Ling.CyclicChainDetector.
+
 - 1.0.60 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.CopyDir.
