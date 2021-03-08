@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.80 -- 2021-03-08
+
+    - wizard: update boilerplate for Ling.DirScanner.
+
 - 1.0.79 -- 2021-03-05
 
     - wizard: update boilerplate for Ling.UniverseTools.
