@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.82 -- 2021-03-08
+
+    - wizard: update boilerplate for Ling.TokenFun.
+
 - 1.0.81 -- 2021-03-08
 
     - wizard: update boilerplate for Ling.BumbleBee.
