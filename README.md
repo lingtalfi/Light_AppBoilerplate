@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.94 -- 2021-03-18
+
+    - wizard: update boilerplate for Ling.Light_Events.
+
 - 1.0.93 -- 2021-03-18
 
     - wizard: update boilerplate for Ling.Light.
