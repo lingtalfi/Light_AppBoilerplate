@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.98 -- 2021-03-22
+
+    - wizard: update boilerplate for Ling.SectionComment.
+
 - 1.0.97 -- 2021-03-19
 
     - wizard: update boilerplate for Ling.Light_Events.
