@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.102 -- 2021-03-23
+
+    - wizard: update boilerplate for Ling.CheapLogger.
+
 - 1.0.101 -- 2021-03-23
 
     - wizard: update boilerplate for Ling.CheapLogger.
