@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.105 -- 2021-05-01
+
+    - wizard: update boilerplate for Ling.Bat.
+
 - 1.0.104 -- 2021-05-01
 
     - wizard: update boilerplate for Ling.Bat.
