@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.114 -- 2021-05-03
+
+    - wizard: update boilerplate for Ling.Light_PluginInstaller.
+
 - 1.0.113 -- 2021-05-03
 
     - wizard: update boilerplate for Ling.Light_Logger.
