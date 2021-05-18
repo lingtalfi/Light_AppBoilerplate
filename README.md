@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.135 -- 2021-05-18
+
+    - wizard: update boilerplate for Ling.Bat.
+
 - 1.0.134 -- 2021-05-18
 
     - wizard: update boilerplate for Ling.BabyYaml.
