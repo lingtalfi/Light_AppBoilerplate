@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.138 -- 2021-05-21
+
+    - wizard: update boilerplate for Ling.CliTools.
+
 - 1.0.137 -- 2021-05-20
 
     - wizard: update boilerplate for Ling.Bat.
