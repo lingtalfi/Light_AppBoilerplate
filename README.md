@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.154 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.BeeFramework.
+
 - 1.0.153 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.Bat.
