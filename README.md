@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.176 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.Uni2.
+
 - 1.0.175 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.TokenFun.
