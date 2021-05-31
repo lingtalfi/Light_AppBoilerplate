@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.183 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.Light_Cli.
+
 - 1.0.182 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.Light.
