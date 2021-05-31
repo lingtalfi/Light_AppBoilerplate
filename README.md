@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.158 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.ClassCreator.
+
 - 1.0.157 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.ClassCooker.
