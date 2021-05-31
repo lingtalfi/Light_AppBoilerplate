@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.151 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.ArrayToString.
+
 - 1.0.150 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.Uni2.
