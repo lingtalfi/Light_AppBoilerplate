@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.171 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.PhpUploadFileFix.
+
 - 1.0.170 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.ParenthesisMirrorParser.
