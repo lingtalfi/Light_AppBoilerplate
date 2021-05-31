@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.150 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.Uni2.
+
 - 1.0.149 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.Light_Cli.
