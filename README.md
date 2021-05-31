@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.159 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.CliTools.
+
 - 1.0.158 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.ClassCreator.
