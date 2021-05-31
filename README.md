@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.156 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.CheapLogger.
+
 - 1.0.155 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.BumbleBee.
