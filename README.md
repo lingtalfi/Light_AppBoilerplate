@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.174 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.Tiphaine.
+
 - 1.0.173 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.SicTools.
