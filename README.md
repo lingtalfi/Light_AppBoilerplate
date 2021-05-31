@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.177 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.UniversalLogger.
+
 - 1.0.176 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.Uni2.
