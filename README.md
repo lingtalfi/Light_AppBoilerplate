@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.162 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.Komin.
+
 - 1.0.161 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.DirScanner.
