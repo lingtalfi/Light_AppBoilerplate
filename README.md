@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.173 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.SicTools.
+
 - 1.0.172 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.SectionComment.
