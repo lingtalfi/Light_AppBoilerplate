@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.157 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.ClassCooker.
+
 - 1.0.156 -- 2021-05-31
 
     - wizard: update boilerplate for Ling.CheapLogger.
