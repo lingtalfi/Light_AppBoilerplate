@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.165 -- 2021-05-31
+
+    - wizard: update boilerplate for Ling.Light_Cli.
+
 - 1.0.164 -- 2021-05-31
 
     - Removing trailing plus in lpi-deps file (to work with Light_PlanetInstaller:2.0.0 api
