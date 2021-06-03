@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.187 -- 2021-06-03
+
+    - wizard: update boilerplate for Ling.ClassCooker.
+
 - 1.0.186 -- 2021-06-03
 
     - wizard: update boilerplate for Ling.TokenFun.
