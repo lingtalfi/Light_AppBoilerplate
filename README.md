@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.186 -- 2021-06-03
+
+    - wizard: update boilerplate for Ling.TokenFun.
+
 - 1.0.185 -- 2021-06-03
 
     - wizard: update boilerplate for Ling.Light_PlanetInstaller.
