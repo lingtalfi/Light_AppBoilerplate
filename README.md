@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.192 -- 2021-06-15
+
+    - wizard: update boilerplate for Ling.BeeFramework.
+
 - 1.0.191 -- 2021-06-15
 
     - wizard: update boilerplate for Ling.UniverseTools.
