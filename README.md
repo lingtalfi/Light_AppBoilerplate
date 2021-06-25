@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.204 -- 2021-06-25
+
+    - wizard: update boilerplate for Ling.SicTools.
+
 - 1.0.203 -- 2021-06-25
 
     - wizard: update boilerplate for Ling.Light_PlanetInstaller.
