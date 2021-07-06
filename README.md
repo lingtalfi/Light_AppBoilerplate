@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.214 -- 2021-07-06
+
+    - wizard: update boilerplate for Ling.Light.
+
 - 1.0.213 -- 2021-07-06
 
     - wizard: update boilerplate for Ling.Bat.
