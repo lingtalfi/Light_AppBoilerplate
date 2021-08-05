@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.226 -- 2021-08-05
+
+    - wizard: update boilerplate for Ling.SicTools.
+
 - 1.0.225 -- 2021-07-30
 
     - wizard: update boilerplate for Ling.UniverseTools.
