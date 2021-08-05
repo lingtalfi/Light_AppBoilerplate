@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.227 -- 2021-08-05
+
+    - wizard: update boilerplate for Ling.Light_Logger.
+
 - 1.0.226 -- 2021-08-05
 
     - wizard: update boilerplate for Ling.SicTools.
