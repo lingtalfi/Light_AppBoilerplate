@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.229 -- 2021-08-10
+
+    - wizard: update boilerplate for Ling.Bat.
+
 - 1.0.228 -- 2021-08-10
 
     - wizard: update boilerplate for Ling.SectionComment.
