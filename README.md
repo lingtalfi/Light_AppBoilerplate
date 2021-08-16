@@ -54,6 +54,10 @@ History Log
 =============
 
 
+- 1.0.230 -- 2021-08-16
+
+    - wizard: update boilerplate for Ling.TokenFun.
+
 - 1.0.229 -- 2021-08-10
 
     - wizard: update boilerplate for Ling.Bat.
